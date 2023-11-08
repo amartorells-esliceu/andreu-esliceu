@@ -4,4 +4,5 @@
 #### TITOL NIVEL 4
 ##### TITOL NIVEL 5
 ###### TITOL DARER NIVEL 6
-Aixo es un **texte amb negreta**, i aquest un *amb cursiva*.
+Aixo és un **texte amb negreta**, i aquest un *amb cursiva*.
+[Això és el meu link](https://www4.minijuegosgratis.com/v3/games/thumbnails/204979_7_sq.jpg)
