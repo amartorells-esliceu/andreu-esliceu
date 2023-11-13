@@ -1,8 +1,8 @@
 # Estats d'un Procés:
 - Ready:
-  El procés està preparat per executar-se però encara no ha obtingut accés a la CPU.
+  En aquest estat, el procés està preparat per ser executat i ha estat carregat a la memòria. No està utilitzant actualment la CPU, però està disponible per ser programat.
 - Run:
-  El procés està utilitzant actualment la CPU.
+  En aquest estat, el procés té accés a la CPU i està executant les seves instruccions. Només un procés pot estar en aquest estat a la vegada per cada unitat de processador.
 - Wait:
-  El procés està esperant un esdeveniment extern (per exemple, entrada/sortida) i no pot executar-se.
-  ![ESQUEMA DE ESTAT DE PROCESSOS](ubicacion_de_la_imagen){width=width height=height}
+  Quan un procés espera per algun esdeveniment (com ara entrada/sortida o una resposta a una crida de sistema), entra en l'estat bloquejat. Durant aquest temps, no utilitza la CPU i allibera recursos.
+  ![ESQUEMA DE ESTAT DE PROCESSOS](PROCESSOS.png)
