@@ -1,0 +1,2 @@
+# INTRODUCCIO DE LA GESTIÓ DE PROCESSOS
+La gestió de processos és un aspecte essencial dels sistemes operatius, assegurant una execució eficient dels programes. Aquesta disciplina involucra la creació, planificació, execució i terminació de processos. El sistema operatiu, a través d'algoritmes de planificació com `FIFO`, `Round Robin` o `SJF`, coordina l'ús òptim de la CPU, garantint un rendiment equitatiu i eficaç del sistema. La comprensió d'aquests conceptes és crucial per als professionals de la informàtica que busquen maximitzar l'eficiència dels sistemes que gestionen.
