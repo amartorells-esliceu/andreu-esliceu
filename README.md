@@ -13,3 +13,10 @@ Aixo és un **texte amb negreta**, i aquest un *amb cursiva*.
     2. Segon sub apartat
 4. Quard apartat
 > Això és la meva cita
+
+Això són els meus [apuns de sistemes](sistemes)
+- Aquets els meus [apuns de gestio de processos](sistemes/processos)
+Això són els meus [apuns de montatje](montaje)
+Això són els meus [apuns de ofimatica](ofimatica)
+Això són els meus [apuns de xarxes](xarxes)
+Això són els meus [apuns de fol](fol)
