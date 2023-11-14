@@ -1,1 +1,2 @@
 - Això són els meus [apuns de processos](processos)
+- Això són els meus [sistema informatic](Martorell_Serra_Andreu_Sistema_Informatic.pdf)
