@@ -1,1 +1,2 @@
 - Això és la meva [tasca 1.2](Martorell_Serra_Andreu_Tasca1.2.pdf)
+- Fes [clic aqui](../README.md) per tornar a la pagina principal
