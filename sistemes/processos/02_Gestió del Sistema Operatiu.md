@@ -25,3 +25,5 @@ La gestió del sistema operatiu és un aspecte crític per al funcionament efici
 - Tracta situacions inesperades com errors de programari o excepcions hardware per mantenir la integritat del sistema.
 ## Gestió de Fitxers i Estructures de Dades:
 - Proporciona funcionalitats per gestionar l'accés als fitxers i organitzar les dades emmagatzemades al sistema.
+
+- Gràcies per haver llegit els meus apunts, fes [clic aqui](.) per tornar a la carpeta de processos

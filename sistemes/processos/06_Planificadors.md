@@ -90,3 +90,5 @@ Suposem dos processos (P1 i P2) amb temps d'execució de 6 i 8 unitats, respecti
   - La dinàmica de canvis en el procés actual pot provocar canvis de context addicionals, que podrien afectar el rendiment en certes situacions.
 - **Complexitat de Implementació:**
   - La implementació de SRT pot ser més complexa que altres algoritmes a causa de la necessitat de supervisar els temps d'execució restants de manera dinàmica.
+
+  - Gràcies per haver llegit els meus apunts, fes [clic aqui](.) per tornar a la carpeta de processos

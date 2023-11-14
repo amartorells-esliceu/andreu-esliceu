@@ -21,3 +21,5 @@ La execució de processos és una fase crucial de la gestió del sistema operati
    - Quan el procés ha completat la seva tasca, el sistema operatiu realitza les accions necessàries per alliberar els recursos associats. Això pot incloure la lliberació de memòria, la finalització del PCB i altres tasques de neteja.
 10. **Comunicació Interprocessos:**
     - En sistemes on diversos processos necessiten comunicar-se, s'utilitzen mecanismes com les cues, els semàfors o les pipes per intercanviar informació.
+
+    - Gràcies per haver llegit els meus apunts, fes [clic aqui](.) per tornar a la carpeta de processos

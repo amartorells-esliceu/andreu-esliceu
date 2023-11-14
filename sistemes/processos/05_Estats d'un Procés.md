@@ -6,3 +6,5 @@
 - Wait:
   Quan un procés espera per algun esdeveniment (com ara entrada/sortida o una resposta a una crida de sistema), entra en l'estat bloquejat. Durant aquest temps, no utilitza la CPU i allibera recursos.
   ![ESQUEMA DE ESTAT DE PROCESSOS](PROCESSOS.png)
+
+  - Gràcies per haver llegit els meus apunts, fes [clic aqui](.) per tornar a la carpeta de processos
