@@ -6,3 +6,5 @@ Des de la creació inicial d'un procés fins al seu estat final, que pot ser lle
 La capacitat de suspendre i reprendre processos, juntament amb la terminació ordenada quan es compleix la seva tasca, permet una gestió dinàmica i adaptativa dels recursos. La comprensió dels estats dels processos, com ara estar llest per a l'execució, en plena execució o bloquejat, és essencial per al correcte funcionament del sistema.
 
 Els planificadors, des de mètodes senzills com FIFO fins a estratègies més sofisticades com Round Robin, Shortest Job First (SJF) i Shortest Remaining Time (SRT), determinen quins processos tenen prioritat per a l'execució. Això influeix directament en l'eficiència i el rendiment global del sistema.
+
+- Gràcies per haver llegit els meus apunts, fes [clic aqui](.) per tornar a la carpeta de processos
