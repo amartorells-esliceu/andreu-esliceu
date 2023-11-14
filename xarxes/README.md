@@ -1,0 +1,1 @@
+- Això és la meva [tasca 1.2](Martorell_Serra_Andreu_Tasca1.2.pdf)
