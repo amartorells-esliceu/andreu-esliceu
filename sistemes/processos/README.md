@@ -1,0 +1,6 @@
+- Això és la [intruduccio](01_Introduccio.md)
+- Això son els meus apunts de [gestió de sistemes](<02_Gestió del Sistema Operatiu.md>)
+- Això son els meus apunts de [execució de processos](<03_Execució de Processos.md>)
+- Això son els meus apunts de [operacions amb processos](<04_Operacions amb Processos.md>)
+- Això son els meus apunts de [estats d'un procés](<05_Estats d'un Procés.md>)
+- Això son els meus apunts de [planificadors](06_Planificadors.md)
