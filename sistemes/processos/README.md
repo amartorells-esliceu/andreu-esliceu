@@ -4,3 +4,4 @@
 - Això son els meus apunts de [operacions amb processos](<04_Operacions amb Processos.md>)
 - Això son els meus apunts de [estats d'un procés](<05_Estats d'un Procés.md>)
 - Això son els meus apunts de [planificadors](06_Planificadors.md)
+- Fes [clic aqui](..) per tornar a la pagina de sistemes
