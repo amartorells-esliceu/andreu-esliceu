@@ -22,4 +22,10 @@ La execució de processos és una fase crucial de la gestió del sistema operati
 10. **Comunicació Interprocessos:**
     - En sistemes on diversos processos necessiten comunicar-se, s'utilitzen mecanismes com les cues, els semàfors o les pipes per intercanviar informació.
 
+   - Això és la [intruduccio](01_Introduccio.md)
+   - Això son els meus apunts de [gestió de sistemes](<02_Gestió del Sistema Operatiu.md>)
+   - Això son els meus apunts de [operacions amb processos](<04_Operacions amb Processos.md>)
+   - Això son els meus apunts de [estats d'un procés](<05_Estats d'un Procés.md>)
+   - Això son els meus apunts de [planificadors](06_Planificadors.md)
+   
     - Gràcies per haver llegit els meus apunts, fes [clic aqui](.) per tornar a la carpeta de processos

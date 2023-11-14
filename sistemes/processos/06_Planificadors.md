@@ -91,4 +91,10 @@ Suposem dos processos (P1 i P2) amb temps d'execució de 6 i 8 unitats, respecti
 - **Complexitat de Implementació:**
   - La implementació de SRT pot ser més complexa que altres algoritmes a causa de la necessitat de supervisar els temps d'execució restants de manera dinàmica.
 
-  - Gràcies per haver llegit els meus apunts, fes [clic aqui](.) per tornar a la carpeta de processos
+- Això és la [intruduccio](01_Introduccio.md)
+- Això son els meus apunts de [gestió de sistemes](<02_Gestió del Sistema Operatiu.md>)
+- Això son els meus apunts de [execució de processos](<03_Execució de Processos.md>)
+- Això son els meus apunts de [operacions amb processos](<04_Operacions amb Processos.md>)
+- Això son els meus apunts de [estats d'un procés](<05_Estats d'un Procés.md>)
+
+- Gràcies per haver llegit els meus apunts, fes [clic aqui](.) per tornar a la carpeta de processos

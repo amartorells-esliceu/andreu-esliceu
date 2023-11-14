@@ -7,4 +7,10 @@ La capacitat de suspendre i reprendre processos, juntament amb la terminació or
 
 Els planificadors, des de mètodes senzills com FIFO fins a estratègies més sofisticades com Round Robin, Shortest Job First (SJF) i Shortest Remaining Time (SRT), determinen quins processos tenen prioritat per a l'execució. Això influeix directament en l'eficiència i el rendiment global del sistema.
 
+- Això son els meus apunts de [gestió de sistemes](<02_Gestió del Sistema Operatiu.md>)
+- Això son els meus apunts de [execució de processos](<03_Execució de Processos.md>)
+- Això son els meus apunts de [operacions amb processos](<04_Operacions amb Processos.md>)
+- Això son els meus apunts de [estats d'un procés](<05_Estats d'un Procés.md>)
+- Això son els meus apunts de [planificadors](06_Planificadors.md)
+
 - Gràcies per haver llegit els meus apunts, fes [clic aqui](.) per tornar a la carpeta de processos
