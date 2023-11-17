@@ -27,9 +27,9 @@ La gestió del sistema operatiu és un aspecte crític per al funcionament efici
 - Proporciona funcionalitats per gestionar l'accés als fitxers i organitzar les dades emmagatzemades al sistema.
 
 - Això és la [intruduccio](01_Introduccio.md)
-- Això son els meus apunts de [execució de processos](<03_Execució de Processos.md>)
-- Això son els meus apunts de [operacions amb processos](<04_Operacions amb Processos.md>)
-- Això son els meus apunts de [estats d'un procés](<05_Estats d'un Procés.md>)
+- Això son els meus apunts de [execució de processos](03_Execucio_de_Processos.md)
+- Això son els meus apunts de [operacions amb processos](04_Operacions_amb_Processos.md)
+- Això son els meus apunts de [estats d'un procés](05_Estats_del_Proces.md)
 - Això son els meus apunts de [planificadors](06_Planificadors.md)
 
 - Gràcies per haver llegit els meus apunts, fes [clic aqui](.) per tornar a la carpeta de processos
